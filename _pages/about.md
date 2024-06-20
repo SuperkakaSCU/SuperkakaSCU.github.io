@@ -9,7 +9,8 @@ redirect_from:
 
 I am a Ph.D. student working with Prof. [Jian Cao](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/cao-jian.html) in the Department of Mechanical Engineering at Northwestern University. I got my master degree in the Department of Materials Science at Northwestern University under the guidance of Prof. [Peter Voorhees](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/voorhees-peter.html). I obtained my the B.Eng. degree in Sichuan University, where I was advised by A/Prof. [Xuefei Huang](https://www.researchgate.net/profile/Xuefei-Huang).
 
-**Research Interest**
+Research Interest
+======
 1. Multi-scale modeling, including phase-field method, crystal plasticity, etc.
 2. Inverse design for microstructure, processing, and properties.
 3. Machine-learning-informed numerical analysis.
